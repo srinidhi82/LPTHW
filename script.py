@@ -9,3 +9,10 @@ print("The script is called:", script)
 print("Your first variable is:", first)
 print("Your second variable is:", second)
 print("Your third variable is:", third)
+
+name = input("What is your name ? ")
+age = input("How old are you ? ")
+weight = input("What is your weight ? ")
+print(f"Hi {name}, So you're {age} years old and {weight} kilos")
+
+
