@@ -2,7 +2,7 @@
 
 from sys import argv
 script, user_name = argv
-prompt = '== '
+prompt = '-- '
 print(f"Hi {user_name}, I'm the {script} script.")
 print(f"Do you like me {user_name} ?")
 likes = input(prompt)
@@ -11,4 +11,9 @@ lives = input(prompt)
 
 print(f"Which computer you have ? ")
 computer = input(prompt)
+
+print(f""" \tSo you are {user_name} , you live in
+      {lives} and you own {computer}
+      wow ,some update
+      """)
       
