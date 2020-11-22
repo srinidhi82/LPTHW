@@ -23,10 +23,8 @@ def bmi_calc(name, wt_kg, ht_m):
     else:
         return name + " is not overweight"
 
-namea = "Sri"
-wt_kga = 72
-ht_ma = 1.70
 
-
-Person1 = bmi_calc(namea, wt_kga, ht_ma)
+Person1 = bmi_calc("Sri", 71, 1.70)
+P2 = bmi_calc("Sam", 60, 1.62)
 print (Person1)
+print(P2)
