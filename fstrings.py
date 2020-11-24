@@ -7,6 +7,9 @@ my_hair_color = 'black'
 total = my_age + my_height + my_weight
 inch = 10
 cms = inch * 2.54
+pi = 8.7333
+
+print(round(pi))
 
 print(f"Lets talk about {my_name} now.")
 print(f"I am now {my_weight} kgs")
