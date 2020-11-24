@@ -6,7 +6,7 @@ txt = open(filename)
 print(f"Here is your file {filename} ")
 print(txt.read())
 """
-filename = input(" Please tel em the name of the file ")
+filename = input(" Please tel me the name of the file ")
 filename = open(filename)
 print(filename.read())
 filename.close()
