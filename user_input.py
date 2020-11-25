@@ -28,5 +28,5 @@ cap_america = input("Is Captain AMerica still young ? ")
 ant_man = input("Is ant man an avnger super hero ? ")
 thor = input("Which Thor movie you like ? ")
 
-print(f"Hi {name}, {fav_avenger} is your favorite , {iron_man}, \
-{cap_america} is old \"wow\", {ant_man} is an avnger ? and {thor} is your fav movie!")
+print(f"Hi {name}, {fav_avenger} is your favorite avenger , {iron_man}, \
+{cap_america} yes,he is young \"wow\", {ant_man} is an avenger super hero and {thor} is your fav movie!")
