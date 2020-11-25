@@ -1,5 +1,5 @@
-print("." * 17)
-print(" + " * 12)
+print("." * 6)
+print(" + " * 2)
 print("Hey I went to {} " .format('movie'))
 
 end1 = "B"

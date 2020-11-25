@@ -1,0 +1,7 @@
+echo "This is sample text file." > sample3.text
+cat sample3.text
+This is a test text file
+cricket
+ipl
+
+
